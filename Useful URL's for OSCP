@@ -1,4 +1,4 @@
-Websites/blogs
+Useful Websites/blogs
 ------------------------
 https://blog.g0tmi1k.com/
 https://0xdf.gitlab.io/
@@ -12,6 +12,21 @@ https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/
 Windows Based Cheat Sheets
 -------------------------
 https://adsecurity.org/
+
+Windows Privilege Escalation
+-------------------------------------
+https://guif.re/windowseop
+http://www.fuzzysecurity.com/tutorials/16.html
+https://daya.blog/2018/01/06/windows-privilege-escalation/
+https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+https://github.com/AddaxSoft/OSWindowsPrivEscalation/blob/master/index.md
+https://github.com/frizb/Windows-Privilege-Escalation
+
+Privilege Escalation tools
+-------------------------------------
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+https://github.com/AlessandroZ/BeRoot
+https://github.com/1N3/PrivEsc/commit/33b129469180d85e77a03f1ba34b48e08843b20e
   
 General Pen testing Cheat Sheets
 ------------------------
