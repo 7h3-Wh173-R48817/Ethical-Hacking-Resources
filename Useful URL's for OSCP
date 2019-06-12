@@ -5,6 +5,10 @@ https://0xdf.gitlab.io/
 http://0xc0ffee.io/blog/OSCP-Goldmine
 https://posts.specterops.io/
 
+Buffer Overflow Resources
+-------------------------
+https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/writing-exploits-for-win32-systems-from-scratch
+
 Web Application Testing Resources
 -------------------------
 https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit?fbclid=IwAR2AWm_cxZXik7N03r_VyTJRAnh3VAPXlcMvayYAw7t4BvE-89KALXwrtVM
@@ -41,6 +45,7 @@ OSCP Reviews
 https://veteransec.com/2018/09/21/not-your-ordinary-oscp-review
 https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html
 https://h4ck.co/oscp-journey-exam-lab-prep-tips/
+https://0ff5ec.com/oscp-review/
 
 Auto Recon Scripts
 -----------------------
