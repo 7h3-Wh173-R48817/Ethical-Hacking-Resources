@@ -1,2 +1,2 @@
-<b>Often works when the other methods fail</b>
+**bold text**Often works when the other methods fail**bold text**
 /usr/bin/script -qc /bin/bash /dev/null
