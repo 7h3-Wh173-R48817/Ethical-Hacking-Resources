@@ -1,2 +1,2 @@
-[comment]: <> (Often works when the other methods fail)
+<b>Often works when the other methods fail</b>
 /usr/bin/script -qc /bin/bash /dev/null
